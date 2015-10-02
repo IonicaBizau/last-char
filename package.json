@@ -1,0 +1,27 @@
+{
+  "name": "last-char",
+  "version": "1.0.0",
+  "description": "Get the last character in a provided string.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/last-char.git"
+  },
+  "keywords": [
+    "last",
+    "character",
+    "string"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/last-char/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/last-char#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
