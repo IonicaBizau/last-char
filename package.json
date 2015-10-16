@@ -23,5 +23,10 @@
   "homepage": "https://github.com/IonicaBizau/last-char#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  {
+  "contributors": [
+     "Tamas Fodor <info@ruffle.hu> (http://ruffle.hu)"
+  ]
+}
 }
