@@ -1,5 +1,6 @@
-var lastChar = require('../lib');
-var assert = require('assert');
+var lastChar = require('../lib')
+  , assert = require('assert')
+  ;
 
 describe('last-char', function () {
   it('should return with the last char of the given string',
