@@ -1,7 +1,9 @@
+// Dependencies
 var LastChar = require("../lib")
   , Assert = require("assert")
   ;
 
+// Start the tests
 describe("last-char", function () {
   it("should return with the last char of the given string",
     function () {
