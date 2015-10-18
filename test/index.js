@@ -1,38 +1,38 @@
-var lastChar = require('../lib')
-  , assert = require('assert')
+var LastChar = require("../lib")
+  , Assert = require("assert")
   ;
 
-describe('last-char', function () {
-  it('should return with the last char of the given string',
+describe("last-char", function () {
+  it("should return with the last char of the given string",
     function () {
-      assert.equal(lastChar('foo'), 'o');
-      assert.equal(lastChar('bar'), 'r');
-      assert.equal(lastChar('baz'), 'z');
+      Assert.equal(LastChar("foo"), "o");
+      Assert.equal(LastChar("bar"), "r");
+      Assert.equal(LastChar("baz"), "z");
     });
-  it('should just work if the given argument is an empty string', function () {
-    assert.equal(lastChar(''), '');
+  it("should just work if the given argument is an empty string", function () {
+    Assert.equal(LastChar(""), "");
   });
-  it('should throw type error if the given argument is not a string', function () {
-    assert.throws(function () {
-      lastChar(1);
+  it("should throw type error if the given argument is not a string", function () {
+    Assert.throws(function () {
+      LastChar(1);
     }, TypeError);
-    assert.throws(function () {
-      lastChar({});
+    Assert.throws(function () {
+      LastChar({});
     }, TypeError);
-    assert.throws(function () {
-      lastChar([]);
+    Assert.throws(function () {
+      LastChar([]);
     }, TypeError);
-    assert.throws(function () {
-      lastChar(true);
+    Assert.throws(function () {
+      LastChar(true);
     }, TypeError);
-    assert.throws(function () {
-      lastChar(function () {});
+    Assert.throws(function () {
+      LastChar(function () {});
     }, TypeError);
-    assert.throws(function () {
-      lastChar(undefined);
+    Assert.throws(function () {
+      LastChar(undefined);
     }, TypeError);
-    assert.throws(function () {
-      lastChar(null);
+    Assert.throws(function () {
+      LastChar(null);
     }, TypeError);
   });
 });
