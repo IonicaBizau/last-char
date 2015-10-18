@@ -22,9 +22,12 @@
   },
   "homepage": "https://github.com/IonicaBizau/last-char#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "contributors": [
     "Tamas Fodor <info@ruffle.hu> (http://ruffle.hu)"
-  ]
+  ],
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
 }
