@@ -1,6 +1,6 @@
-# last-char [![Support this project][donate-now]][paypal-donations]
+# last-char [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/last-char.svg)](https://travis-ci.org/IonicaBizau/last-char/) [![Version](https://img.shields.io/npm/v/last-char.svg)](https://www.npmjs.com/package/last-char) [![Downloads](https://img.shields.io/npm/dt/last-char.svg)](https://www.npmjs.com/package/last-char) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Get the last character in a provided string.
+> Get the last character in a provided string.
 
 ## Installation
 
