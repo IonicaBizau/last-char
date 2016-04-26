@@ -1,6 +1,6 @@
 {
   "name": "last-char",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Get the last character in a provided string.",
   "main": "lib/index.js",
   "directories": {
@@ -29,5 +29,16 @@
   ],
   "devDependencies": {
     "mocha": "^2.3.3"
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
