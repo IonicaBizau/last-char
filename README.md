@@ -1,5 +1,7 @@
 
-# last-char [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Travis](https://img.shields.io/travis/IonicaBizau/last-char.svg)](https://travis-ci.org/IonicaBizau/last-char/) [![Version](https://img.shields.io/npm/v/last-char.svg)](https://www.npmjs.com/package/last-char) [![Downloads](https://img.shields.io/npm/dt/last-char.svg)](https://www.npmjs.com/package/last-char) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# last-char
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Travis](https://img.shields.io/travis/IonicaBizau/last-char.svg)](https://travis-ci.org/IonicaBizau/last-char/) [![Version](https://img.shields.io/npm/v/last-char.svg)](https://www.npmjs.com/package/last-char) [![Downloads](https://img.shields.io/npm/dt/last-char.svg)](https://www.npmjs.com/package/last-char) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get the last character in a provided string.
 
@@ -48,6 +50,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - [`clp`](https://github.com/IonicaBizau/clp)—A tiny and fast command line arguments parser.
  - [`double-last`](https://github.com/IonicaBizau/double-last#readme)—Doubles the last letter.
+ - [`gh.js`](https://github.com/IonicaBizau/gh.js)—Tiny GitHub API wrapper for server and client.
  - [`is-percent`](https://github.com/IonicaBizau/is-percent#readme)—Check if a given value is in the percent format.
  - [`name-it`](https://github.com/IonicaBizau/name-it#readme)—Generate project names from given keywords.
  - [`unvowel-last`](https://github.com/IonicaBizau/unvowel-last#readme)—Removes the last letter from a string if it is a vowel.
