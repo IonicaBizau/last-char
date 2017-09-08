@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Returns the last character of the provided string.
 
 #### Params
+
 - **String** `input`: The input string.
 
 #### Return
